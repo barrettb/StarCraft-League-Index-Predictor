@@ -13,3 +13,4 @@ The best model was the gradient boosted decision trees but the neural network li
 
 1. Gradient Boosted Decision Trees
 2. Neural Network Linear Regression
+3. KNN Model
