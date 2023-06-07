@@ -11,10 +11,5 @@ With there being only eight different options the models were able to narrow the
 
 The best model was the gradient boosted decision trees but the neural network linear regression model only performed slightly worse.
 
-`model_results = {
-    'Model Type' : ['GBDT', 'Neural Network Linear Regression', 'KNN', 'Binary Logistic Regression'],
-    ' ': [a,b,c,d]
-
-}
-
-mod = pd.DataFrame(model_results)`
+1. Gradient Boosted Decision Trees
+2. Neural Network Linear Regression
